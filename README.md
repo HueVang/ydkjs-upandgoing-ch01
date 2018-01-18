@@ -6,4 +6,4 @@
 
 ### Details
 
-* *Create a program that takes in a prompt (bank_balance) and buys as many phones as possible*
+* *Create a program that takes in a prompt (bank_balance) and buys as many phones as possible.*
